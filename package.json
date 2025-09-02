@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/motorola-edge-50",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a motorola-edge-50",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/motorola-edge-50.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://isproto.com/motorola-edge-50-fusion/"
+    },
+    "homepage": "https://isproto.com/motorola-edge-50-fusion/"
+}
